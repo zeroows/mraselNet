@@ -2,4 +2,9 @@
 <resources>
     <string name="app_name">Mrasel.net</string>
     <string name="login_info">Login Info</string>
+    <string name="titleUsername">Mrasel Username</string>
+    <string name="summaryUsername">Please enter your mrasel username</string>
+    <string name="titlePassword">Mrasel Password</string>
+    <string name="summaryPassword">Please enter your mrasel password</string>
+    <string name="prefItem">Settings</string>
 </resources>

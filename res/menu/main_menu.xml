@@ -2,5 +2,6 @@
 <menu
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/loginInfo" android:title="@string/login_info"></item>
+    <item android:title="@string/prefItem" android:icon="@android:drawable/ic_menu_preferences" android:id="@+id/itemPrefs"></item>
     
 </menu>
